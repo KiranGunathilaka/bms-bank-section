@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\User\Documents\NetBeansProjects\Mcq_Counter\dist\MCQ_Counter.jar</jar>
+  <outfile>C:\Users\User\Documents\Other\Other\MCQ_Counter.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\User\Documents\Other\Other\MCQ.ico</icon>
+  <singleInstance>
+    <mutexName>MCQ Counter 2.0</mutexName>
+    <windowTitle>MCQ Counter 2.0</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>jimage</path>
+    <bundledJre64Bit>true</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>17.0.0</minVersion>
+    <maxVersion>17.0.2</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.0.0.0</fileVersion>
+    <txtFileVersion>2.0.MCQ_Counter</txtFileVersion>
+    <fileDescription>Simple tool to count number of  correct MCQ&apos;s</fileDescription>
+    <copyright>Kiran Gunathilaka</copyright>
+    <productVersion>2.0.0.0</productVersion>
+    <txtProductVersion>2.0.MCQ_Counter</txtProductVersion>
+    <productName>MCQ Counter.exe</productName>
+    <companyName></companyName>
+    <internalName>MCQ Counter 2.0</internalName>
+    <originalFilename>MCQ Counter.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
